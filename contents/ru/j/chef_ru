@@ -1,0 +1,461 @@
+
+Повар
+
+Описание:
+Повар одна из обслеживающих профессий.Конкретно у этой - обеспечение экипажа пропитанием.
+
+На кухне из оборудования у вас имеется:
+  Раздатчик напитков.
+  Dinnerware - раздатчик кухонных принадлежностей.
+  All-In-One Grinder - на самом деле это блендер-соковыжималка, с её помощью можно получить сок из фруктов или питательные вещества из еды.
+  CondiMaster 3000 - позволяет производить манипуляции с жидкостями. Эта вещь незаменима, особенно когда вы выжимаете сок из фруктов, ведь помимо него в колбе появятся питательные вещества, которые могут испортить ваш рецепт.Так же этот прибор позволяет делать бутылки с химикатами.
+  Микроволновые печи - настоящая космическая новинка, ведь она умеет жарить, варить, печь, а так же превращать обычную воду в питательный суп.
+  Кухонная раковина - незаменимый и бесконечный источник воды.
+  
+В подсобке вы так же можете найти пики для разделки обезьян, а так же мясорубку, которая при правильной настройке позволит разделить целового человека на его состовляющие, т.е. мясо, мозги, а так же внутренние органы.
+
+Из припасов у вас имеется два банановых пирога, три коробки с "Donk Pocket", а так же мука, три коробки яиц и бутылка сахара.
+Главное, что нужно запомнить так это то, что просить ИИ открыть морг и забрать оттуда мертвое тело - это наказуемо и скорее всего вас посадят за мародерство... или вы можете дать взятку офицеру и сделать фирменный торт из мозгов, а органы и мясо подать как основное блюдо.
+
+Промежуточные рецепты ингредиентов (смешивать в колбе):
+  Flatdough (раскатать скалкой dough)
+  
+  Meatball
+	3 protein + 5 flour
+
+	
+	Syntiflesh
+	5 blood + 1 clonexadone
+ 
+  Dough
+	3 egg (в данном случае нужно взять не целое яйцо, разбить его в колбу и добавить как жидкость) + 10 flour
+
+	Tofu
+	10 soymilk + 5 enzyme (в роле катализатора)
+	
+  Cheesewheel
+	40 milk + 5 enzyme (в роле катализатора)
+
+	Chocolate Bar
+	2 soymilk (можно добавить обычное молоко) + 2 coco powder (измельчите какао-бобы) + 2 sugar
+
+  Hot Coco
+	5 water + 1 coco powder
+
+	Soy Sauce
+	4 soymilk + 1 sulfuric acid
+
+	Ketchup
+	2 tomatojuice + 1 water + 1 sugar
+
+  Hot Ramen
+	1 water + 3 Cup Ramen (из автомата)
+
+	Hell Ramen
+	1 capsaicin + 6 hot_ramen
+
+Рецепты (в микроволновке):
+  friedegg
+	1 sodiumchloride + 1 blackpepper (соль и перец) + яйцо
+	
+
+  boiledegg
+	5 water + egg
+	
+  jellydonut
+	5 berryjuice + 5 sugar + dough
+	
+
+  slimejelly
+	5 slimejelly + 5 sugar + dough
+	
+  Frosted Jelly Donut 
+	5 cherryjelly + 5 sugar + dough
+
+  donut
+	5 sugar + dough
+
+  humanburger
+	Human meat + bun
+	
+
+  plainburger
+  bun + meat
+
+  syntiburger
+	bun + syntiflesh
+	
+
+  brainburger
+	bun + brain
+	
+  roburger
+	bun + robo head
+	
+  xenoburger
+	bun + xenomeat
+	
+
+  fishburger
+	bun + carpmeat
+	
+
+  tofuburger
+	bun + tofu
+	
+
+  clownburger
+	bun + clown wig and mask 
+
+  mimeburger
+	bun + beret
+	
+
+  hotdog
+	bun + sausage
+	
+
+  waffles
+	10 sugar + 2 dough,
+
+  donkpocket
+	dough + meatball
+
+  warm donkpocket
+	donkpocket
+	
+
+  meatbread
+	3 dough + 3 meat + 3 cheesewedge
+
+  syntibread (meatbread)
+	3 dough + 3 syntiflesh + 3 cheesewedge
+
+  xenomeatbread
+	3 dough + 3 xenomeat + 3 cheesewedge
+
+  bananabread
+	1 banana + 5 milk + 15 sugar + 3 dough 
+	
+  omelette
+	2 egg + 2 cheesewedge
+
+  muffin
+	5 milk + 5 sugar + dough
+	
+
+  Eggplant Parmigiana
+	eggplant + 2 cheesewedge
+
+  Soylen Virdians
+	soybeans + 10 flour
+
+  Soylent Green
+	10 flour+ 2 human meat
+
+  meatpie
+	flatdough (раскатать скалкой dough) + meat,
+	
+
+  tofupie
+	flatdough + tofu
+
+  Xeno-pie
+	flatdough + xenomeat
+	
+  Banana Cream Pie
+	banana + 5 sugar + flatdough
+
+  cherrypie
+	cherries + 10 sugar + flatdough
+
+  Berry Clafoutis
+	berries + flatdough
+
+  wing fang chu
+	5 soysauce + xenomeat
+
+  chaosdonut
+	5 frostoil + 5 capsaicin + 5 sugar + dough
+	
+
+  human kabob
+	metal rods + 2 human meat
+		
+  monkey kabob
+	metal rods + 2 monkey meat
+
+  syntikabob
+	metal rods + 2 syntiflesh meat
+
+  tofukabob
+	metal rods + 2 tofu
+
+  tofubread
+	3 +dough + 3 tofu + 3 cheesewedge
+  
+  loaded baked potato
+	potato + cheesewedge
+  
+  Cheesy Fries
+	fries + cheesewedge
+
+  cubancarp
+	chili + dough + carpmeat
+	
+  popcorn
+	corn
+	
+  cookie
+	5 milk + 5 sugar + dough + chocolatebar
+
+  fortunecookie
+	5 sugar + doughslice + paper (можно написать предсказание... или шутку про клоуна)
+
+  meatsteak
+	1 sodiumchloride + 1 blackpepper + meat
+  
+  pizzamargherita
+	tomato + flatdough + 4 cheesewedge
+
+  meatpizza
+	tomato + flatdough + 3 meat + cheesewedge
+
+  syntipizza
+	tomato + flatdough + 3 syntiflesh + cheesewedge
+
+  mushroompizza
+	5 mushroom + tomato + flatdough + cheesewedge
+
+  vegetablepizza (Пицца с кукурузой?)
+	eggplant + carrot + corn + tomato + flatdough + cheesewedge
+
+  Spacy Liberty Duff
+	5 water + 5 vodka + 5 psilocybin
+
+  amanitajelly
+	5 water + 5 vodka + 5 amatoxin
+
+  meatballsoup
+	carrot + potato + 10 water + meatball
+
+  vegetablesoup
+	carrot + potato + сorn + eggplant + 10 water
+
+  nettlesoup
+	nettle + potato + 10 water + egg
+
+  wishsoup - самая съедобная еда у новичка
+	20 water
+
+  hot chili
+	chili + tomato + meat
+
+  coldchili
+	icechili + tomato + meat
+
+  amanita pie
+	5 amatoxin + flatdough
+
+  plump_pie
+	plumphelmet + flatdough
+
+  bigbiteburger
+	monkeyburger + 3 meat + egg
+
+  enchiladas
+	2 chili + corn + cutlet
+
+  creamcheesebread
+	2 dough + 2 cheesewedge
+
+  monkeysdelight - еда для особых случаев
+	banana + 1 sodiumchloride + 1 blackpepper + 10 flour + monkeycube
+
+  baguette - еда для особых мимов
+	1 sodiumchloride + 1 blackpepper + 2 dough,
+	
+  fishandchips
+	fries + сarpmeat,
+
+  bread
+	dough + egg
+
+  sandwich
+	meatsteak + 2 breadslice + cheesewedge
+
+  toasted sandwich
+	sandwich
+
+  grilled cheese sandwich
+	2 breadslice + cheesewedge
+
+  tomatosoup
+	tomato + 10 water"
+
+  rofflewaffles
+	5 psilocybin + 10 sugar + 2 dough
+
+  stew
+	potato + tomato + carrot + eggplant + mushroom + 10 water + meat
+
+  slimetoast
+	5 slimejelly + breadslice
+
+  jelliedtoast
+	5 cherryjelly + breadslice
+
+  milosoup
+	10 water + 2 soydope + 2tofu
+
+  Stewed Soy Meat
+	carrot + tomato + 2soydope
+
+  boiledrice
+	5 water + 10 rice
+
+  ricepudding
+	5 milk + 10 rice
+
+
+  poppypretzel
+	poppy + dough
+
+
+  superbiteburger
+	tomato + 5 sodiumchloride + 5 blackpepper + bigbiteburger + dough + meat + cheesewedge + boiledegg,
+	
+
+  candiedapple
+	apple + 5 water + 5 sugar
+
+  applepie
+	apple + flatdough
+
+  slimeburger
+	5 slimejelly + bun
+
+  jellyburger
+	5 cherryjelly + bun
+	
+
+  twobread
+	5 wine + 2 breadslice
+
+  limesandwich
+	5 slimejelly + 2 breadslice
+	
+
+  cherrysandwich
+	5 cherryjelly + 2 breadslice
+
+  bloodsoup
+	30 blood
+
+  slimesoup
+	10 water + 5 slimejelly
+
+  boiled slime extract
+	5 water + slime extract
+
+  chocolateegg
+	egg + chocolatebar
+
+  sausage
+	meatball + cutlet,
+
+  fishfingers
+	10 flour + egg + carpmeat
+
+  mysterysoup
+	10 water + Burned mess  + tofu + egg + cheesewedge
+
+  pumpkinpie
+	pumpkin + 5 milk + 5 sugar + 3 egg (в данном случае нужно разбить 1 яйцо) + 10 flour
+
+  plumphelmet biscuit
+	plumphelmet + 5 water + 5 flour
+  
+  mushroomsoup
+	mushroom + 5 water + 5 milk
+  
+  chawanmushi
+	mushroom + 5 water + 5 soysauce + 2 egg (целые)
+
+  beetsoup - или просто borscht
+	whitebeet + cabbage + 10 water
+
+  appletart
+	goldapple + 5 sugar + 5 milk + 10 flour + egg 
+
+  tossedsalad
+	2 cabbage + tomato + carrot + apple
+
+  aesirsalad
+	goldapple + ambrosiadeus
+  
+  validsalad (потому что с мясом)
+	potato + ambrosia + meatball
+
+  cracker
+	1 sodiumchloride + doughslice
+
+  stuffing
+	5 water + 1 sodiumchloride + 1 blackpepper + bread
+
+  tofurkey
+	2 tofu + stuffing
+
+  taco
+	doughslice + cutlet + cheesewedge
+	
+***
+  bun
+	dough
+	
+  flatbread
+	flatdough
+	
+  meatball
+	rawmeatball (???)
+	
+  cutlet
+	rawcutlet (порезать мясо)
+	
+  fries
+	raw potato sticks (порезать картошку)
+	
+  mint (так вот что это...)
+	5 sugar + 5 frostoil
+***
+
+  cake
+	5 milk + 15 flour + 15 sugar + 9 egg (разбить три яйца) 
+	
+  carrot cake
+	5 milk + 15 flour + 15 sugar + 9 egg (разбить три яйца) + 3carrot
+  
+  cheese cake
+  5 milk + 15 flour + 15 sugar + 9 egg (разбить три яйца) + 2 cheesewedge
+
+  birthday cake
+	5 milk + 15 flour + 15 sugar + 9 egg (разбить три яйца) + cakehat
+
+  apple cake
+	5 milk + 15 flour + 15 sugar + 9 egg (разбить три яйца) + 2 apple
+
+  brain cake
+	5 milk + 15 flour + 15 sugar + 9 egg (разбить три яйца) + brain
+  
+  orange cake
+	orange + 5 milk + 15 flour + 9 egg (разбить три яйца) + 3 orangejuice + 5 sugar
+
+  lime cake
+	lime + 5 milk + 15 flour + 9 egg (разбить три яйца) + 3 limejuice + 5 sugar
+
+  lemon cake
+	lemon + 5 milk + 15 flour + 9 egg (разбить три яйца) + 3 lemonjuice + 5 sugar
+
+  chockolate
+	5 milk + 15 flour + 9 egg (разбить три яйца) + 4 cocopowder + 5 sugar
+
